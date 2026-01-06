@@ -1,6 +1,4 @@
-# ================================
 # FastAPI + MongoDB Minimal Setup
-# ================================
 
 # Create virtual environment
 python -m venv venv
@@ -44,9 +42,9 @@ Practice project to learn **FastAPI**, **MongoDB**, and **CRUD APIs**.
 - Python 3.10+
 
 ## Run
-\`\`\`bash
+
 uvicorn app.main:app --reload
-\`\`\`
+
 
 ## Docs
 - http://127.0.0.1:8000/docs
